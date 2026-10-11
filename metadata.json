@@ -1,0 +1,8 @@
+{
+  "name": "Remix Irispop",
+  "description": "Irispop - Social Reimagined. Holographic pastel rainbow social network with feeds, reels, music library, and immersive vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
